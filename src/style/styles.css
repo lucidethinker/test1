@@ -1,0 +1,20 @@
+    .drum-machine {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    
+    .display {
+        background-color: #6cb4c4;
+        border: 0.5rem solid #104f55;
+        border-radius: 0.5rem;
+        box-shadow: 0.5rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+        color: #1a2930;
+        font-size: 3rem;
+        padding: 2rem;
+        text-align: center;
+        width: 25rem;
+        margin: auto;
+    }
